@@ -310,6 +310,10 @@ Project_4_Vehicle_Fuel_Efficiency_Prediction_Using_Machine_Learning/
 │   ├── actual_vs_predicted_fuel_efficiency.png
 │   ├── feature_importance.png
 │   └── model_R²_score_comparison.png
+├── best_model.pkl
+├── scaler.pkl
+├── feature_names.pkl
+├── label_encoders.pkl
 ├── requirements.txt
 ├── README.md 
 └── LICENSE
