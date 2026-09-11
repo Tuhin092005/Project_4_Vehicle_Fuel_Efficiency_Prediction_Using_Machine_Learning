@@ -242,7 +242,7 @@ The trained model then predicts the expected **MPG** of the vehicle.
 
 ---
 
-# 🚗 2 Example Vehicle Predictions
+# 🚗 Sample Fuel Efficiency Predictions
 
 The model predicts the fuel efficiency (MPG) using two different vehicle specifications.
 
