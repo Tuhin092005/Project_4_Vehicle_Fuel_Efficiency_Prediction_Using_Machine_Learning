@@ -168,7 +168,7 @@ Random Forest Regression combines multiple decision trees to produce a more robu
 
 The performance of the regression models was evaluated using **MAE, MSE, RMSE, and R² Score**.
 
-## 📈 Linear Regression Performance
+## Linear Regression Performance
 
 - **MAE:** 2.25
 - **MSE:** 8.20
@@ -177,7 +177,7 @@ The performance of the regression models was evaluated using **MAE, MSE, RMSE, a
 
 ---
 
-## 🌳 Decision Tree Regression Performance
+## Decision Tree Regression Performance
 
 - **MAE:** 2.24
 - **MSE:** 11.18
@@ -186,7 +186,7 @@ The performance of the regression models was evaluated using **MAE, MSE, RMSE, a
 
 ---
 
-## 🌲 Random Forest Regression Performance
+## Random Forest Regression Performance
 
 - **MAE:** 1.59
 - **MSE:** 4.60
@@ -199,9 +199,9 @@ The performance of the regression models was evaluated using **MAE, MSE, RMSE, a
 
 | Model | MAE ↓ | MSE ↓ | RMSE ↓ | R² Score ↑ |
 |---|---:|---:|---:|---:|
-| 📈 Linear Regression | 2.25 | 8.20 | 2.86 | 0.8476 |
-| 🌳 Decision Tree Regression | 2.24 | 11.18 | 3.34 | 0.7920 |
-| 🌲 Random Forest Regression | **1.59** | **4.60** | **2.14** | **0.9145** |
+| Linear Regression | 2.25 | 8.20 | 2.86 | 0.8476 |
+| Decision Tree Regression | 2.24 | 11.18 | 3.34 | 0.7920 |
+| Random Forest Regression | **1.59** | **4.60** | **2.14** | **0.9145** |
 
 > **Note:** Lower values of MAE, MSE, and RMSE indicate better performance, while a higher R² Score indicates better performance.
 
