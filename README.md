@@ -263,7 +263,7 @@ The model predicts the fuel efficiency (MPG) using two different vehicle specifi
 **Expected Output**
 
 ```python
-Predicted Fuel Efficiency: 31.84 km/L
+Predicted Fuel Efficiency: 31.07 km/L
 ```
 
 > A lightweight 4-cylinder vehicle is expected to have **higher fuel efficiency**.
@@ -287,7 +287,7 @@ Predicted Fuel Efficiency: 31.84 km/L
 **Expected Output**
 
 ```python
-Predicted Fuel Efficiency: 15.27 km/L
+Predicted Fuel Efficiency: 14.999 km/L
 ```
 
 > A heavier 8-cylinder vehicle is expected to have **lower fuel efficiency**.
