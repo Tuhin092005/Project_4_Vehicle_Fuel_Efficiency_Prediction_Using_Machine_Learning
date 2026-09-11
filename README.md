@@ -138,7 +138,7 @@ In this project, Linear Regression learns the relationship between vehicle featu
 
 ---
 
-## 2️⃣ Decision Tree Regressor 🌳
+## 2️⃣ Decision Tree Regressor 
 
 Decision Tree Regression predicts the target value by dividing the dataset into different decision-based regions.
 
@@ -151,7 +151,7 @@ Decision Tree Regression predicts the target value by dividing the dataset into 
 
 ---
 
-## 3️⃣ Random Forest Regressor 🌲
+## 3️⃣ Random Forest Regressor 
 
 Random Forest Regression combines multiple decision trees to produce a more robust prediction.
 
