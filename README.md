@@ -242,9 +242,13 @@ The trained model then predicts the expected **MPG** of the vehicle.
 
 ---
 
-# 🚗 Example New Vehicle
+# 🚗 2 Example Vehicle Predictions
 
-Example vehicle specifications:
+The model predicts the fuel efficiency (MPG) using two different vehicle specifications.
+
+## 🧪 Example Prediction 1
+
+**Vehicle Specifications**
 
 | Feature | Value |
 |---|---:|
@@ -256,7 +260,37 @@ Example vehicle specifications:
 | Model Year | 82 |
 | Origin | 1 |
 
-The model uses these values to estimate the vehicle's fuel efficiency.
+**Expected Output**
+
+```python
+Predicted Fuel Efficiency: 31.84 km/L
+```
+
+> A lightweight 4-cylinder vehicle is expected to have **higher fuel efficiency**.
+
+---
+
+## 🧪 Example Prediction 2
+
+**Vehicle Specifications**
+
+| Feature | Value |
+|---|---:|
+| Cylinders | 8 |
+| Displacement | 350.0 |
+| Horsepower | 180.0 |
+| Weight | 4200 |
+| Acceleration | 12.0 |
+| Model Year | 76 |
+| Origin | 1 |
+
+**Expected Output**
+
+```python
+Predicted Fuel Efficiency: 15.27 km/L
+```
+
+> A heavier 8-cylinder vehicle is expected to have **lower fuel efficiency**.
 
 ---
 
