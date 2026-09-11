@@ -179,19 +179,19 @@ The performance of the regression models was evaluated using **MAE, MSE, RMSE, a
 
 ## 🌳 Decision Tree Regression Performance
 
-- **MAE:** 2.21
-- **MSE:** 11.15
+- **MAE:** 2.24
+- **MSE:** 11.18
 - **RMSE:** 3.34
-- **R² Score:** 0.7926
+- **R² Score:** 0.7920
 
 ---
 
 ## 🌲 Random Forest Regression Performance
 
 - **MAE:** 1.59
-- **MSE:** 4.61
-- **RMSE:** 2.15
-- **R² Score:** 0.9143
+- **MSE:** 4.60
+- **RMSE:** 2.14
+- **R² Score:** 0.9145
 
 ---
 
@@ -200,8 +200,8 @@ The performance of the regression models was evaluated using **MAE, MSE, RMSE, a
 | Model | MAE ↓ | MSE ↓ | RMSE ↓ | R² Score ↑ |
 |---|---:|---:|---:|---:|
 | 📈 Linear Regression | 2.25 | 8.20 | 2.86 | 0.8476 |
-| 🌳 Decision Tree Regression | 2.21 | 11.15 | 3.34 | 0.7926 |
-| 🌲 Random Forest Regression | **1.59** | **4.61** | **2.15** | **0.9143** |
+| 🌳 Decision Tree Regression | 2.24 | 11.18 | 3.34 | 0.7920 |
+| 🌲 Random Forest Regression | **1.59** | **4.60** | **2.14** | **0.9145** |
 
 > **Note:** Lower values of MAE, MSE, and RMSE indicate better performance, while a higher R² Score indicates better performance.
 
@@ -214,11 +214,11 @@ Based on the evaluation results, the **Random Forest Regressor** achieved the be
 ### Random Forest Results:
 
 - 🟢 **MAE:** 1.59
-- 🟢 **MSE:** 4.61
-- 🟢 **RMSE:** 2.15
-- 🟢 **R² Score:** 0.9143
+- 🟢 **MSE:** 4.60
+- 🟢 **RMSE:** 2.14
+- 🟢 **R² Score:** 0.9145
 
-The Random Forest model achieved an **R² Score of 91.43%**, meaning it explains approximately **91.43% of the variation in vehicle fuel efficiency** in the test data.
+The Random Forest model achieved an **R² Score of 91.45%**, meaning it explains approximately **91.45% of the variation in vehicle fuel efficiency** in the test data.
 
 Therefore, **Random Forest Regressor** is selected as the best-performing model among the three algorithms tested.
 
