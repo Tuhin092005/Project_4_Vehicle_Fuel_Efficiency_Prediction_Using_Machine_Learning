@@ -200,8 +200,8 @@ The performance of the regression models was evaluated using **MAE, MSE, RMSE, a
 | Model | MAE | MSE | RMSE | R² Score |
 |---|---:|---:|---:|---:|
 | Linear Regression | 2.25 | 8.20 | 2.86 | 0.8476 |
-| Decision Tree Regression | 2.24 | 11.18 | 3.34 | 0.7920 |
-| Random Forest Regression | **1.59** | **4.60** | **2.14** | **0.9145** |
+| Decision Tree Regressor | 2.24 | 11.18 | 3.34 | 0.7920 |
+| Random Forest Regressor | **1.59** | **4.60** | **2.14** | **0.9145** |
 
 > **Note:** Lower values of MAE, MSE, and RMSE indicate better performance, while a higher R² Score indicates better performance.
 
