@@ -197,7 +197,7 @@ The performance of the regression models was evaluated using **MAE, MSE, RMSE, a
 
 # 📊 Model Comparison
 
-| Model | MAE ↓ | MSE ↓ | RMSE ↓ | R² Score ↑ |
+| Model | MAE | MSE | RMSE | R² Score |
 |---|---:|---:|---:|---:|
 | Linear Regression | 2.25 | 8.20 | 2.86 | 0.8476 |
 | Decision Tree Regression | 2.24 | 11.18 | 3.34 | 0.7920 |
